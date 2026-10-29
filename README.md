@@ -1,4 +1,4 @@
-# ¡Hola! Soy Catalin 👋
+# ¡Hola! Soy Catalin 👋 **[CDP Studio](https://cdpstudio.es)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-E07A5F?style=for-the-badge" alt="Rol" />
@@ -11,7 +11,6 @@
 
 Soy un apasionado del desarrollo de software y la resolución de problemas a través del código. Me especializo en el ecosistema **JavaScript moderno** y en construir arquitecturas backend robustas y eficientes. 
 
-Actualmente trabajo de forma independiente y soy el fundador de **[CDP Studio](https://cdpstudio.es)**, mi propio proyecto para ayudar a startups y empresas a materializar sus ideas en productos digitales reales.
 
 *   💻 **Full-Stack:** Me muevo cómodamente tanto diseñando interfaces en React como estructurando servicios backend con Node.js o Spring Boot.
 *   ⚡ **Foco técnico:** Interesado en sistemas en tiempo real, optimización de bases de datos y buenas prácticas de desarrollo.
